@@ -9,9 +9,6 @@
   "git.enableSmartCommit": true,
   "terminal.integrated.fontSize": 15,
   "terminal.integrated.gpuAcceleration": "canvas",
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true
-  },
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
